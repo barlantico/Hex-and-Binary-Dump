@@ -1,6 +1,5 @@
 # Hex-and-Binary-Dump
 
-=========================================
 Brian Arlantico
 cssc3010
 CS530 Fall 2020
