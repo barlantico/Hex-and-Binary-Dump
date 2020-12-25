@@ -1,8 +1,11 @@
 # Hex-and-Binary-Dump
 
 Brian Arlantico
+
 cssc3010
+
 CS530 Fall 2020
+
 Assignment #1, Hex and Binary Dump (xbd)
 
 The following are discussed in this file:
